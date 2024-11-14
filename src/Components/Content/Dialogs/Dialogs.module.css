@@ -1,0 +1,12 @@
+.item a {
+    color: black
+}
+
+.messages {
+    background-color: gainsboro;
+}
+
+.userMessages {
+    display: inline-flex;
+    background-color: aqua;
+}

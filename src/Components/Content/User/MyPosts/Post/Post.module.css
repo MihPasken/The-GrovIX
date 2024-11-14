@@ -1,0 +1,29 @@
+.Post {
+    background-color: white;
+    max-width: 400px;
+    margin-top: 10px;
+}
+
+.PostContent {
+    display: inline-flex;
+    align-items: center;
+}
+
+.avatar img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.reactions {
+    display: flex;
+    justify-content: right;
+}
+
+.like {
+    color: green;
+}
+
+.dislike {
+    color: red;
+}

@@ -1,0 +1,21 @@
+.Sidebar {
+    grid-area: Sidebar;
+    background-color: #003285;
+    padding: 20px;
+}
+
+.item {
+	color: white;
+}
+
+a.active {
+	color: red;
+}
+
+a:visited.active {
+    color: red; /* Цвет ссылки после посещения */
+}
+
+a:visited {
+    color: white;
+}
